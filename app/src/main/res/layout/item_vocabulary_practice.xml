@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/item_vocabulary_padding">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tvWord"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"
+            android:textSize="@dimen/item_vocabulary_practice_word_size"
+            android:text="Vocabolary"/>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/item_vocabulary_practice_space_word_other" />
+
+        <TextView
+            android:id="@+id/tvKanji"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:gravity="center_horizontal"
+            android:textSize="@dimen/item_vocabulary_practice_pron_size"
+            android:text="ABC"/>
+
+        <TextView
+            android:id="@+id/tvMean"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="@dimen/item_vocabulary_practice_mean_size"
+            android:text="ABC"/>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="igp_icon">70dp</dimen>
+    <dimen name="igp_warning_text_size">20dp</dimen>
+    <dimen name="igp_item_padding">5dp</dimen>
+    <dimen name="igp_item_title_size">20dp</dimen>
+    <dimen name="igp_item_normal_size">14dp</dimen>
+</resources>

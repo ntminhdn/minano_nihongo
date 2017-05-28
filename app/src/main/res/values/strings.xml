@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Minna No Nihongo</string>
+    <string name="download">Downloading</string>
+    <string name="extract">Extracting</string>
+    <string name="update_data">Update data</string>
+    <string name="lesson">Lesson</string>
+    <string name="checking_data">Checking data...</string>
+    <string name="vocabularies">Vocabularies</string>
+    <string name="learn">Learn</string>
+    <string name="practice">Practice</string>
+    <string name="search">Search</string>
+    <string name="test">Test</string>
+    <string name="memory">Memory</string>
+    <string name="listening">Listening</string>
+    <string name="writing">Writing</string>
+    <string name="kanji">Kanji</string>
+    <string name="mean">Mean</string>
+    <string name="type_to_search">Enter word to search</string>
+    <string name="from">from</string>
+    <string name="to">to</string>
+    <string name="show_word">Show Word</string>
+    <string name="show_kanji">Show Kanji</string>
+    <string name="show_mean">Show Mean</string>
+    <string name="next">Next</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="correct">Correct</string>
+    <string name="perfect">Perfect</string>
+    <string name="not_enough_vocabulary">Not enough Vocabulary to test. Please choose more!</string>
+    <string name="no_topic_chosen">No topic chosen. Please choose one</string>
+    <string name="warning_choose_answer">Please choose your answer</string>
+    <string name="congratulation">Congratulations!</string>
+    <string name="test_again">Test Again</string>
+    <string name="click_listen">Click to listen</string>
+    <string name="next_question">Next question</string>
+</resources>

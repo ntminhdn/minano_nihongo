@@ -1,0 +1,24 @@
+<resources>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="not_now">Not Now</string>
+    <string name="exit">Exit</string>
+    <string name="message">Message</string>
+    <string name="language">Language</string>
+    <string name="english">Engish</string>
+    <string name="vietnamese">Vietnamese</string>
+    <string name="share_facebook">Share Facebook</string>
+    <string name="rating">Rating</string>
+    <string name="about">Support Us</string>
+    <string name="successful">Successful</string>
+    <string name="failed">Failed</string>
+    <string name="more_app">More Apps</string>
+    <string name="rating_info">Dear User,\nFirstly, Thanks for using our app.\nIf the app is helpful for you. Please let rate it.\nThanks!\nDeveloper</string>
+    <string name="about_content">Dear User!\nPlease support us by click Ad and install some apps from Ad.\nThis way help us earn a bit money to keep us to improve and develop new helpful apps for you.\nThanks for use our app!</string>
+    <string name="version">Version</string>
+
+    <string name="internet_no_internet">Internet isn\'t available. Please check again</string>
+    <string name="internet_no_internet_download">Internet isn\'t available. The app need network to download data. Please check again!</string>
+</resources>

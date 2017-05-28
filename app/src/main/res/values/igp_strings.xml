@@ -1,0 +1,5 @@
+<resources>
+    <string name="igp_loading">Loading</string>
+    <string name="igp_warning_no_internet">No Internet\nTap to resfresh</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="admob_app_id">ca-app-pub-5629660628975902~6009964673</string>
+    <string name="admob_banner_id">ca-app-pub-5629660628975902/7486697873</string>
+    <string name="admob_interstitial_id">ca-app-pub-5629660628975902/2777296672</string>
+    <string name="facebook_app_id">1040836675968700</string>
+
+    <string name="igp_link">https://www.dropbox.com/s/0oo84aahl106agq/igp.json?dl=1</string>
+</resources>
